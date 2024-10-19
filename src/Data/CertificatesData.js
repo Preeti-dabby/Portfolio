@@ -30,13 +30,13 @@ let certificationsList=[
         platform:''
 
     },
-    {
-        title:"Apna College",
-        instructor:"Alpha Plus 2.0 DSA with Java",
-        link:"https://drive.google.com/file/d/16uGJ-I2fIlDhfiJQF_ZgXrmQji4ZBZdg/view?usp=drive_link",
-        platform:''
+    // {
+    //     title:"Apna College",
+    //     instructor:"Alpha Plus 2.0 DSA with Java",
+    //     link:"https://drive.google.com/file/d/16uGJ-I2fIlDhfiJQF_ZgXrmQji4ZBZdg/view?usp=drive_link",
+    //     platform:''
 
-    },
+    // },
   
 ];
 
