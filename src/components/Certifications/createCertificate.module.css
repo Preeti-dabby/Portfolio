@@ -2,7 +2,7 @@
 	height: 15rem;
 	border: 2px solid;
 	border-radius: 10px;
-	min-width: 23rem;
+	width: 23rem;
 }
 .certImage {
 	border-radius: inherit;
@@ -39,7 +39,7 @@
 @media (max-width: 768px) {
 	.certificate {
 		height: 13rem;
-		min-width: 20rem;
+		width: 20rem;
 		border-radius: 7px;
 	}
 	.certImage {
