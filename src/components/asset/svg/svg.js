@@ -6,6 +6,7 @@ import { TbBrandCpp } from "react-icons/tb";
 import { RiReactjsFill } from "react-icons/ri";
 import { SiMysql } from "react-icons/si";
 import { FaPython } from "react-icons/fa";
+import { FaFigma } from "react-icons/fa";
 
 export const HTML = () => {
     return (
@@ -45,5 +46,10 @@ export const mySQL=()=>{
 export const Python = () => {
     return(
         <FaPython />
+    )
+}
+export const Figma = () => {
+    return(
+        <FaFigma />
     )
 }

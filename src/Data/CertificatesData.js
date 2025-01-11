@@ -37,6 +37,13 @@ let certificationsList=[
     //     platform:''
 
     // },
+    {
+        title:"Simplilearn",
+        instructor:"Figma",
+        link:"https://drive.google.com/file/d/190DSG1ULARRvYAZB8Jb36p8Nn4r1J5uc/view?usp=sharing",
+        platform:''
+
+    },
   
 ];
 
